@@ -1,3 +1,10 @@
+#环境安装:
+
+环境: CentOS release 6.3 (Final)
+ruby: 1.9.3p551
+bundler: 1.0.10
+passenger: 4.0.56
+
 Webistrano - Capistrano deployment the easy way
 
 
